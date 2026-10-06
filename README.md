@@ -57,3 +57,5 @@ x - 2^4 * y
 $$
 
 ![Foto 1](photojas)
+![Foto 2](photojojas)
+
